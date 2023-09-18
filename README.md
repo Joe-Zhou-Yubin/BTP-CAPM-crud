@@ -9,6 +9,10 @@ File or Folder | Purpose
 `db/` | your domain models and data go here
 `srv/` | your service models and code go here
 `package.json` | project metadata and configuration
+<br>
 
+## List Report Page
+<img src="https://github.com/Joe-Zhou-Yubin/BTP-CAPM-crud/raw/main/screenshots/List_Report.png" alt="List Report Page Screenshot" width="600">
 
+---
 
