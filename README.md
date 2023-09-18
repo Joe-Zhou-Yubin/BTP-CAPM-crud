@@ -16,3 +16,17 @@ File or Folder | Purpose
 
 ---
 
+## Object Page
+<img src="https://github.com/Joe-Zhou-Yubin/BTP-CAPM-crud/raw/main/screenshots/Object_Page.png" alt="Object Page Screenshot" width="600">
+
+---
+
+## Form Page
+<img src="https://github.com/Joe-Zhou-Yubin/BTP-CAPM-crud/raw/main/screenshots/Form_Page.png" alt="Form Page Screenshot" width="600">
+
+---
+
+## Edit Draft Page
+<img src="https://github.com/Joe-Zhou-Yubin/BTP-CAPM-crud/raw/main/screenshots/Drafting.png" alt="Edit Draft Page Screenshot" width="600">
+
+---
